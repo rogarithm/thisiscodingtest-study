@@ -29,7 +29,7 @@
 - [신은성](https://github.com/watanka)
 - [김지은]()
 - [이도연]()
-- [김세훈]()
+- [김세훈](https://github.com/rogarithm)
 
 
 ## 일정표
