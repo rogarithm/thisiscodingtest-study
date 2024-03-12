@@ -6,8 +6,6 @@ maze = []
 for _ in range(N):
     maze.append(list(map(int, input())))
 
-print(maze)
-
 visited = [[0 for _ in range(M)] for _ in range(N)]
 directions = [[0,1], [1,0], [-1,0], [0,-1]]
 
